@@ -12,6 +12,9 @@ namespace VSGitDemo
         {
             //Changes on the main branch for vs2012
             // v1.1 changes
+
+
+            //local changes
         }
     }
 }
