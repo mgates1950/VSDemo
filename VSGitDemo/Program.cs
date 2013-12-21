@@ -19,6 +19,10 @@ namespace VSGitDemo
             //more local changes
 
             //last change before push
+
+            //feature 1.3 change
+
+            //addiotiona
         }
     }
 }
